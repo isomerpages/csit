@@ -7,6 +7,4 @@ services:
       - "4000:4000"
     volumes:
       - ./:/srv/jekyll
-    command: >
-      bash -c "jekyll build
-      && tail -f /dev/null"
+    command: jekyll serve
