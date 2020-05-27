@@ -14,4 +14,12 @@ links:
   - title: Internships And Scholarships
     collection: internships-and-scholarships
   - title: Join Us
-    collection: join-us
+    url: /join-us/why-csit/
+    sublinks:
+      - title: Why CSIT
+        url: /join-us/why-csit/
+      - title: CSIT Events
+        url: /join-us/csit-events/
+      - title: Apply Now
+        url: https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=centre%20for%20strategic%20infocomm%20technologies
+        external: true

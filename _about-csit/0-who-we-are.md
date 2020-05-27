@@ -1,8 +1,8 @@
 ---
-title: Who Are We
-permalink: /about-csit/who-are-we/
+title: Who We Are
+permalink: /about-csit/who-we-are/
 ---
-## Who Are We
+## Who We Are
 
 The Centre for Strategic Infocomm Technologies (CSIT) was established in 2003. We are an agency in the Ministry of Defence (MINDEF) that conducts R&D in infocomm and infosecurity technologies.
 
