@@ -30,8 +30,8 @@ permalink: /terms-of-use/
 
 1. The materials in this Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, CSIT does not warrant and hereby disclaims any warranty:
 
-- As to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the materials in this Site;
-- That the materials available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected, or that this Site and the server is and will be free of all viruses and other harmful elements.
+    - As to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the materials in this Site;
+    - That the materials available through this Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected, or that this Site and the server is and will be free of all viruses and other harmful elements.
 
 2. CSIT will not be liable for any damage or loss of any kind due to direct or indirect use of the Site, including but not limited to any damage or loss resulting from reliance on the materials in the Site.
 

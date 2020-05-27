@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 ---
 
-## **Privacy Statement**
+### **Privacy Statement**
 
 1. This is a Government of Singapore website.
 
