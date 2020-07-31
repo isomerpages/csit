@@ -4,6 +4,7 @@ permalink: /faq/
 ---
 
 Q1. What is CSIT?
+
 A1. CSIT is ....
 
 ### **FAQ**
