@@ -1,6 +1,6 @@
 
 ---
-title: TEST
+title: test
 permalink: /test/
 ---
 
