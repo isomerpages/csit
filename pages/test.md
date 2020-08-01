@@ -5,6 +5,13 @@ layout: post
 
 ---
 
+- hero:
+    title: Ministry of ABC
+    subtitle: We provide Singaporeans with XYZ services
+    background: /images/banner.png
+    url: /contact-us/
+    button: Contact
+
 This is some normal text. *This sentence is in italics.* This **word** is in bold.
 
 # This is a level 1 (H1) header!
@@ -38,12 +45,7 @@ URLs must be wrapped in angled brackets to turn into links: <http://www.example.
 
 ![just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
 
-- hero:
-    title: Ministry of ABC
-    subtitle: We provide Singaporeans with XYZ services
-    background: /images/banner.png
-    url: /contact-us/
-    button: Contact
+
     
  - hero:
     title: Ministry of ABC
