@@ -2,15 +2,18 @@
 title: Test
 permalink: /test/
 layout: post
-
----
-
+# notification: Here's a notification bar you can use!
+sections:
 - hero:
     title: Ministry of ABC
     subtitle: We provide Singaporeans with XYZ services
     background: /images/banner.png
     url: /contact-us/
     button: Contact
+
+---
+
+
 
 This is some normal text. *This sentence is in italics.* This **word** is in bold.
 
