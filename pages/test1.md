@@ -1,6 +1,6 @@
 ---
 title: Test
-permalink: /test/
+permalink: /test1/
 layout: homepage
 description: Brief site description here!!!!!!!!!!!!!!!
 image: ./images/csit-logo.png
