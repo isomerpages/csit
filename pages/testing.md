@@ -7,6 +7,6 @@ sections:
     title: Work for the public good
     subtitle: Careers
     description: Start a fulfulling and rewarding career with the Ministry of ABC!
-    button: Join Us
+    button: Join Us!
     url: /careers/
 ---
