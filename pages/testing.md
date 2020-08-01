@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: testing
 title: Ministry of ABC
 description: The Ministry of ABC is the ministry in charge of XYZ
 permalink: /testing/
