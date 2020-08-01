@@ -37,3 +37,31 @@ URLs must be wrapped in angled brackets to turn into links: <http://www.example.
 ![alt text - this is a description of what is in the image for people with visual impairments using screen readers](/images/isomer-logo.svg)
 
 ![just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
+
+- hero:
+    title: Ministry of ABC
+    subtitle: We provide Singaporeans with XYZ services
+    background: /images/banner.png
+    url: /contact-us/
+    button: Contact
+    
+ - hero:
+    title: Ministry of ABC
+    subtitle: We provide Singaporeans with XYZ services
+    background: /images/banner.png
+    dropdown:
+        title: I want to...
+        options:
+        - title: Sign up for EFG
+          url: /signup/
+        - title: Learn more about ABC
+          url: /learn-more/
+    key_highlights:
+        - title: ABC services
+          description: Find out what ABC can do for you
+          url: /services/
+        - title: Our Annual Reports
+          url: /annual-reports/
+        - title: Join ABC
+          description: Unleash your passion and be rewarded with a fulfilling career!
+          url: /careers/
