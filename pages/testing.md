@@ -1,7 +1,5 @@
 ---
 permalink: /testing/
----
-# notification: Here's a notification bar you can use!
 - infopic:
     title: Integrity
     subtitle: Core Values
@@ -18,5 +16,8 @@ permalink: /testing/
     url: /core-values/
     image: /images/professionalism.png
     alt: Members of the Ministry of ABC in suits
+---
+ 
+
 
 
