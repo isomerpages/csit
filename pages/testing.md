@@ -2,24 +2,9 @@
 layout: testing
 title: Ministry of ABC
 description: The Ministry of ABC is the ministry in charge of XYZ
-permalink: /testing/
+permalink: /testing
 notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
 sections:
-    - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
-        background: /images/banner.png
-        url: /contact-us/
-        button: Contact
-        key_highlights:
-            - title: ABC services
-              description: Find out what ABC can do for you
-              url: /services/
-            - title: Our Annual Reports
-              url: /annual-reports/
-            - title: Join ABC
-              description: Unleash your passion and be rewarded with a fulfilling career!
-              url: /careers/
     - infobar:
         title: Work for the public good
         subtitle: Careers
