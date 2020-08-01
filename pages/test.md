@@ -2,7 +2,7 @@
 title: Test
 permalink: /test/
 layout: homepage
-description: Brief site description here
+description: Brief site description here!!!!!!!!!!!!!!!
 image: ./images/csit-logo.png
 # notification: Here's a notification bar you can use!
 sections:
