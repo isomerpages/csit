@@ -2,8 +2,7 @@
 layout: testing
 title: testing
 permalink: /testing/
- 
-- infobar:
+ - infobar:
     title: Work for the public good
     subtitle: Careers
     description: Start a fulfulling and rewarding career with the Ministry of ABC!
