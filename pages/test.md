@@ -1,6 +1,8 @@
 ---
 title: Test
 permalink: /test/
+layout: post
+
 ---
 
 This is some normal text. *This sentence is in italics.* This **word** is in bold.
