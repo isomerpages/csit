@@ -28,4 +28,14 @@ sections:
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
+    # This must be created on index.md for asset loading to work
+    - carousel:
+        - title: Carousel item 1 title
+          subtitle: Carousel item 2 subtitle
+          description: Carousel item 1 description
+          image: /images/carousel1.jpg
+        - title: Carousel item 2 title
+          subtitle: Carousel item 2 subtitle
+          description: Carousel item 2 description
+          image: /images/carousel2.jpg
 ---
