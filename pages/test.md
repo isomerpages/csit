@@ -3,13 +3,13 @@ title: Test
 permalink: /test/
 layout: homepage
 description: Brief site description here!!!!!!!!!!!!!!!
-image: ./images/csit-logo.png
+image: /images/csit-logo.png
 # notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Hero title
         subtitle: Hero subtitle
-        background: ./images/hero-banner.png
+        background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
@@ -25,7 +25,7 @@ sections:
     - infobar:
         title: Infobar title
         subtitle: Subtitle
-        description: About a sentence worth of description here
+        description: My DESC
         button: Button text
         url: /faq/
 ---
@@ -45,7 +45,7 @@ This is some normal text. *This sentence is in italics.* This **word** is in bol
 
 1. First ordered list item
 2. Another item
-  * Unordered sub-list. 
+  * Unordered sub-list.
 1. Actual numbers don't matter, just that it's a number
   1. Ordered sub-list
 4. And another item.
@@ -67,7 +67,7 @@ URLs must be wrapped in angled brackets to turn into links: <http://www.example.
 ![just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
 
 
-    
+
  - hero:
     title: Ministry of ABC
     subtitle: We provide Singaporeans with XYZ services
