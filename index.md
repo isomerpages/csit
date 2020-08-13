@@ -8,7 +8,7 @@ permalink: /
 sections:
     - hero:
         title: CSIT
-        subtitle: Hero subtitle
+        subtitle: An agency of MINDEF
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
