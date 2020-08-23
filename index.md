@@ -9,7 +9,7 @@ sections:
     - hero:
         title: CSIT
         subtitle: An agency of MINDEF
-        background: /images/hero-banner.png
+        background: /images/why-csit-banner6.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
