@@ -33,9 +33,13 @@ sections:
         - title: Carousel item 1 title
           subtitle: Carousel item 1 subtitle
           description: Carousel item 1 description
-          image: /images/carousel1.jpg
+          image: /images/diploma-scholarship-banner.jpg
         - title: Carousel item 2 title
           subtitle: Carousel item 2 subtitle
           description: Carousel item 2 description
-          image: /images/carousel2.jpg
+          image: /images/ugs-banner3.jpg
+        - title: Carousel item 2 title
+          subtitle: Carousel item 2 subtitle
+          description: Carousel item 2 description
+          image: /images/why-csit-banner6.jpg
 ---
