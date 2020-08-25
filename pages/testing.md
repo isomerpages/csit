@@ -32,7 +32,7 @@ sections:
         description: Integrity drives everything we do at the Ministry of ABC
         button: Learn More
         url: /core-values/
-        image: ../images/integrity.png
+        image: ../images/internship-banner3.jpg
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
         title: Professionalism
