@@ -40,6 +40,6 @@ sections:
         description: We strive to deliver work of the highest calibre
         button: Learn More
         url: /core-values/
-        image: ../images/professionalism.png
+        image: ../images/diploma-scholarship-banner.jpg
         alt: Members of the Ministry of ABC in suits
 ---
