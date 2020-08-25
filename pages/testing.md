@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: CSIT 
-description: Centre for Strategic Infocomm Technologies (CSIT) is the leading agency that conducts applied research and builds products which harness cutting-edge digital technologies to meet Singapore's national security needs.
+description: CSIT is the leading agency that conducts applied research and builds products which harness cutting-edge digital technologies to meet Singapore's national security needs.
 permalink: /testing/
 notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
 sections:
